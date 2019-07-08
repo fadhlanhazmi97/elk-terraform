@@ -6,10 +6,9 @@
         "project_id": "mapan-243606",
         "source_image": "debian-9-stretch-v20190618",
         "image_name": "debian-9-docker-compose",
-        "image_family": "debian-9",
         "ssh_username": "fadhlan",
         "zone": "us-central1-a",
         "startup_script_file": "scripts/docker.sh"
       }
     ]
-  }
+}
